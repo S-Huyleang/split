@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534413863830",
+    "project_id": "split-ec973",
+    "storage_bucket": "split-ec973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534413863830:android:67b7a44f0217893b098bb7",
+        "android_client_info": {
+          "package_name": "com.example.split"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG5bOoZFx529VYGgMmG3FjK_SYRn6BD2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
